@@ -2,7 +2,7 @@
 
 print ("Hello World")
 
-name = "Homey"
+name = "Honey"
 age = 30
 
 print ("My name is " + name + " and i am " + str(age) + " year old")
