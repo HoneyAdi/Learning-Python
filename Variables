@@ -1,0 +1,9 @@
+# This is my first time using Python
+
+print ("Hello World")
+
+name = "Homey"
+age = 30
+
+print ("My name is " + name + " and i am " + str(age) + " year old")
+
